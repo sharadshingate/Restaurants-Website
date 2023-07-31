@@ -2,4 +2,4 @@
 
 Created using HTML,CSS,Javascript.
 
-[Demo](
+[Demo]( https://sharadshingate.github.io/Restaurants-Website/)
